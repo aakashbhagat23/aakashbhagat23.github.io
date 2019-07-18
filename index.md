@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Aakash Bhagat
 
-You can use the [editor on GitHub](https://github.com/aakashbhagat23/aboutme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Web Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Love to work with Wordpress and Core PHP
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Wordpress Plugins
 
-```markdown
-Syntax highlighted code block
+-[single user chat](https://wordpress.org/plugins/single-user-chat/).
+ Description
+ This plugin uses shortcode to provide one to one chat with logged in user.
+ Backend setting to control multi-user chat.
+ Use this shortcode [single_chat user_id=2] where 2 is the user id of second user first will be the loggedin user.
+ use this shortcode [multi_chat] for using multi user chat option on single page or post (Please Enable multi_chat option from chat setting).
+ Point to be noted:
+  -If multi user on every screen is enabled then don’t use [multi_chat] shortcode. just check both the checkboxes on admin    page.
+  -If multi user option is not enable then you can’t use multi-user on every screen.
+  -User must be logged in to chat with other users
+  -you can use [single_chat user_id=2] dynamically change user_id by using do_shortcode in templates
+  -Perfect active and offline status green represent active and red represent offline
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aakashbhagat23/aboutme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
