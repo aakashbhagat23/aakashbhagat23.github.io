@@ -7,7 +7,8 @@ Love to work with Wordpress and Core PHP
 
 ### Wordpress Plugins
 
--[single user chat](https://wordpress.org/plugins/single-user-chat/).
+[single user chat](https://wordpress.org/plugins/single-user-chat/):
+
  Description
  This plugin uses shortcode to provide one to one chat with logged in user.
  Backend setting to control multi-user chat.
